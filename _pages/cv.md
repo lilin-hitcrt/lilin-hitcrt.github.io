@@ -17,8 +17,8 @@ Education
 Experience
 ======
 * Member of [Competitive Robot Team](https://hitcrt.com/), [Harbin Institute of Technology (HIT)](http://www.hit.edu.cn/), 2017-2019
-* Technical Adviser of [Competitive Robot Team](https://hitcrt.com/), [Harbin Institute of Technology (HIT)](http://www.hit.edu.cn/), 2020
-* Master student in April Lab, [Zhejiang University (ZJU)](https://www.zju.edu.cn/)
+* Technical Adviser of [Competitive Robot Team](https://hitcrt.com/), [Harbin Institute of Technology (HIT)](http://www.hit.edu.cn/), 2019-2020
+* Master student in April Lab, [Zhejiang University (ZJU)](https://www.zju.edu.cn/), 2020-2023
 
   
 Skills
