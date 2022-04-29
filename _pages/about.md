@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Lin Li's home on the web!
+I’m pursuing my M.S. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China. My major research interests include LiDAR SLAM and 3DV.
 
-Lorem ipsum.
+I obtained a B.Eng (Sep.2016 - Jun. 2020) from Harbin Institute Of Technology.
