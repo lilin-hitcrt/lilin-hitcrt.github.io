@@ -42,8 +42,8 @@ Competitions
 
 Honors
 ======
-* National Encouragement Scholarship, China 2017&2018
-* People’s Scholarship Award, HIT 2017&2018&2019&2020
+* National Encouragement Scholarship, China, 2017&2018
+* People’s Scholarship Award, HIT, 2017&2018&2019&2020
   
 <!-- Talks
 ======
