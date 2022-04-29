@@ -14,18 +14,10 @@ Education
 * B.S. in School of Astronautics, Harbin Institute of Technology (HIT), 2016.09-2020.06
 * M.S. in Institute of Cyber-Systems and Control, Zhejiang University (ZJU), 2020.09-2023.03
 
-Work experience
+<!-- Work experience
 ======
-None
-<!-- * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+None -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
   
 Skills
 ======
