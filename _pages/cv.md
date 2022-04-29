@@ -21,9 +21,11 @@ None -->
   
 Skills
 ======
-* C/C++, Python
+* C/C++, Python, MATLAB
 * SLAM
 * Deep Learning
+* Linux
+* PyTorch, ROS, OpenCV, PCL, Boost, Eigen, Ceres, g2o, GTSAM
 
 Publications
 ======
