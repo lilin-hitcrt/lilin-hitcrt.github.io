@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in [School of Astronautics](http://sa.hit.edu.cn/), [Harbin Institute of Technology (HIT)](http://www.hit.edu.cn/), 2016.09-2020.06
 * M.S. in [College of Control Science and Engineering](http://www.cse.zju.edu.cn/), [Zhejiang University (ZJU)](https://www.zju.edu.cn/), 2020.09-2023.03
+* B.S. in [School of Astronautics](http://sa.hit.edu.cn/), [Harbin Institute of Technology (HIT)](http://www.hit.edu.cn/), 2016.09-2020.06
 
 Experience
 ======
