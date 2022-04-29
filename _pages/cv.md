@@ -37,6 +37,11 @@ Competitions
 ======
 * [2018 ABU Asia-Pacific Robot Contest](https://www.aburobocon2022.com/)
 * [2019&2020 ROBOMASTER Robotics Competition](https://www.robomaster.com/en-US)
+
+Honors
+======
+* National Encouragement Scholarship, China 2017&2018
+* People’s Scholarship Award, HIT 2017&2018&2019&2020
   
 <!-- Talks
 ======
