@@ -16,7 +16,8 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+None
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -24,16 +25,13 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++, Python
+* SLAM
+* Deep Learning
 
 Publications
 ======
