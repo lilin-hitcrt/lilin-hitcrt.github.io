@@ -14,9 +14,11 @@ Education
 * B.S. in [School of Astronautics](http://sa.hit.edu.cn/), [Harbin Institute of Technology (HIT)](http://www.hit.edu.cn/), 2016.09-2020.06
 * M.S. in [College of Control Science and Engineering](http://www.cse.zju.edu.cn/), [Zhejiang University (ZJU)](https://www.zju.edu.cn/), 2020.09-2023.03
 
-<!-- Work experience
+Experience
 ======
-None -->
+* Member of [Competitive Robot Team](https://hitcrt.com/), [Harbin Institute of Technology (HIT)](http://www.hit.edu.cn/), 2017-2019
+* Technical Adviser of [Competitive Robot Team](https://hitcrt.com/), [Harbin Institute of Technology (HIT)](http://www.hit.edu.cn/), 2020
+* Master student in April Lab, [Zhejiang University (ZJU)](https://www.zju.edu.cn/)
 
   
 Skills
@@ -35,8 +37,8 @@ Publications
 
 Competitions
 ======
-* [2018 ABU Asia-Pacific Robot Contest](https://www.aburobocon2022.com/)
-* [2019&2020 ROBOMASTER Robotics Competition](https://www.robomaster.com/en-US)
+* First prize in [2018 ABU Asia-Pacific Robot Contest](https://www.aburobocon2022.com/)
+* First prize in [2019&2020 ROBOMASTER Robotics Competition](https://www.robomaster.com/en-US)
 
 Honors
 ======
