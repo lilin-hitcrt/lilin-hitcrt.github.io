@@ -32,6 +32,11 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Competitions
+======
+* [2018 ABU Asia-Pacific Robot Contest](https://www.aburobocon2022.com/)
+* [2019&2020 ROBOMASTER Robotics Competition](https://www.robomaster.com/en-US)
   
 <!-- Talks
 ======
